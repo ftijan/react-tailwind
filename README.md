@@ -4,7 +4,7 @@ An animated icons dashboard example, based on the Fireship.io Tailwind CSS [tuto
 
 ## Additional Setup Guides
 - Used below guides since Tailwind CSS setup has changed in Tailwind V3:
-- Getting Started with Create React App [link](https://github.com/facebook/create-react-app)
+- Getting Started with Create React App [link](https://github.com/facebook/create-react-app#creating-an-app)
 - Getting Started with Tailwind CSS for React [link](https://tailwindcss.com/docs/guides/create-react-app)
 
 ### Uses the following libraries:
